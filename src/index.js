@@ -1,3 +1,3 @@
-import foo from "./components/foo/foo";
+import Swatch from "./components/swatch/Swatch";
 
-export { foo };
+export { Swatch };
