@@ -8,7 +8,7 @@ export default {
     file: "dist/bundle.js",
     format: "cjs"
   },
-  external: ["react", "react-proptypes", "react-primitives"],
+  external: ["react", "react-proptypes"],
   plugins: [
     resolve(),
     commonjs({
